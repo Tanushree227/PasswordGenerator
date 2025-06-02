@@ -38,3 +38,9 @@ img
     font-weight: 500;
     font-size: 45px;
 }
+.container h1 span
+{
+    color: #ff6b35;
+    border-bottom: 4px solid #ff6b35;
+    padding-bottom: 7px;
+}
