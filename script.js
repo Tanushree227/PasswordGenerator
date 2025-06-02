@@ -27,4 +27,5 @@ function copyPassword()
 {
     passwordInput.select();
     document.execCommand("copy");
+    alert("Password Copied!");
 }
