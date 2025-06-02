@@ -15,11 +15,6 @@ body
     width: 90%;
     max-width: 700px;
 }
-img
-{
-    width: 20px;
-    height: 20px;
-}
 .display
 {
     width: 100%;
@@ -43,4 +38,15 @@ img
     color: #ff6b35;
     border-bottom: 4px solid #ff6b35;
     padding-bottom: 7px;
+}
+.display img
+{
+    width: 30px;
+    cursor: pointer;
+}
+.display input
+{
+    border: 0;
+    outline: 0;
+    font-size: 24px;
 }
